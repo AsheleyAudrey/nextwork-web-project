@@ -58,9 +58,9 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the my CI/CD project, please contact:
-Natasha - [email@example.com](mailto:email@example.com)
+Audrey - [ashieley7@gmail.com](mailto:email@example.com)
 
-- [LinkedIn](https://www.linkedin.com/in/natasha-ong/)
+- [LinkedIn](linkedin.com/in/audrey-amarh-60ab66238)
 
 <br>
 
